@@ -27,5 +27,5 @@ ENFP
 
 
 ## 📎 在线预览
-👉 [file:///E:/jxxx9191code/jxxx9191.github.io/index.html](https://github.com/jxxx9191/jxxx9191.github.io/tree/main)
+👉[ [file:///E:/jxxx9191code/jxxx9191.github.io/index.html](https://github.com/jxxx9191/jxxx9191.github.io/tree/main)](https://github.com/jxxx9191/jxxx9191.github.io/blob/main/index.html)
 
