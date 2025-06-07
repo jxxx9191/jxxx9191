@@ -1,4 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello!欢迎来到我的主页！ 黄嘉欣" src="./assets/gh-readme-header.png" /></a></p>
+Hello!欢迎来到我的主页！ 
+黄嘉欣
 
 <br />
 
