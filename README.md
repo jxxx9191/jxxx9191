@@ -88,7 +88,8 @@
 <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:90%; box-shadow:2px 2px 8px rgba(0,0,0,0.1); margin-top:20px;">
   <h3>🎶 我喜欢的音乐 / 影视作品 / 游戏</h3>
 
-  <h4>🎵 音乐</h4>- [![QQ音乐](https://img.shields.io/badge/QQ音乐-1DB954?logo=qqmusic&logoColor=white)]([https://y.qq.com/n/ryqq/playlist/123456789](https://c6.y.qq.com/base/fcgi-bin/u?__=wPUxTf7WvpJu))
+  <h4>🎵 音乐</h4>- 
+  [![QQ音乐](https://img.shields.io/badge/QQ音乐-1DB954?logo=qqmusic&logoColor=white)](https://c6.y.qq.com/base/fcgi-bin/u?__=wPUxTf7WvpJu)
 
   <ul>
     <li>Frank Ocean </li>
