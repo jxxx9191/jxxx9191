@@ -47,12 +47,6 @@
   </div>
 </div>
 
----
-
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxx9191&show_icons=true&theme=radical)
-
 
 # 💼 黄嘉欣的个人简历 | Resume of Jiaxin Huang
 
