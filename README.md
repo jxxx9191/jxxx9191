@@ -41,7 +41,7 @@
     <h3>😮 基于SDF框架构建的资产定价模型</h3>
     <p>基于深度学习方法构建中国市场的SDF,使用GAN、GNN、LSTM模型方法完成。</p>
     <a href="#" target="_blank">
-      <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;">🎉 敬请期待</button>
+      <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;">🎉 敬请期待~~</button>
     </a>
   </div>
 </div>
