@@ -16,26 +16,16 @@
 ![Finance](https://img.shields.io/badge/Finance-003366?logo=visa&logoColor=white)
 
 ## 🚀我的项目 Projects
-<a href="https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction" target="_blank">
-  <button style="padding:10px 20px; font-size:16px; border-radius:8px; cursor:pointer; background-color:#24292e; color:white; border:none;">
-    ⭐ 基于图神经网络的股票预测项目
-  </button>
-</a>
+<div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
+  <h3>📊 基于图神经网络的股票预测</h3>
+  <p>构建公司关系网络，结合宏观经济因素，利用 GNN 模型预测中国 A 股市场的收益率。</p>
+  <a href="https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; border-radius:8px; cursor:pointer; background-color:#24292e; color:white; border:none;">
+      ⭐ 基于图神经网络的股票预测项目
+    </button>
+  </a>
+</div>
 
-
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
-
-  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
-    <h3>📊 基于图神经网络的股票预测</h3>
-    <p>构建公司关系网络，结合宏观经济因素，利用 GNN 模型预测中国 A 股市场的收益率。</p>
-    <a href="https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction" target="_blank">
-      <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;">
-        <a href="https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction" target="_blank">
-  <button style="padding:10px 20px; font-size:16px; border-radius:8px; cursor:pointer; background-color:#24292e; color:white; border:none;">
-    ⭐ 基于图神经网络的股票预测项目
-  </button>
-    </a>
-  </div>
 
   <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
     <h3>📑 STAGNet</h3>
