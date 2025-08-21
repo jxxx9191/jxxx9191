@@ -27,13 +27,16 @@
   </a>
 </div>
 
-  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
-    <h3>📑 STAGNet-基于动态图的资产定价模型</h3>
-    <p>提出了一种融合公司关系、宏观因素与时序依赖的动态图资产定价模型 —— STAGNet。</p>
-    <a href="#" target="_blank">
-      <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;"><a href="[https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction](https://github.com/jxxx9191/Spatio-Temporal-Attention-based-Graph-Network)" target="_blank" style="text-decoration:none;">🔗 查看项目--STAGNet:动态图资产定价模型/button>
-    </a>
-  </div>
+<div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
+  <h3>📑 STAGNet - 基于动态图的资产定价模型</h3>
+  <p>提出了一种融合公司关系、宏观因素与时序依赖的动态图资产定价模型，利用注意力机制和时序神经网络刻画特征因子的非线性演化过程。</p>
+  <a href="https://github.com/jxxx9191/Spatio-Temporal-Attention-based-Graph-Network" target="_blank" style="text-decoration:none;">
+    <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;">
+      🔗 查看项目 — STAGNet: 动态图资产定价模型
+    </button>
+  </a>
+</div>
+
 
 
   <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
