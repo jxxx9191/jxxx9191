@@ -3,6 +3,8 @@
 
 ## 关于我 About me 
 
+- 🎂 生日：2001-10-18🙋‍♀️⛹️‍♀️👩🏻‍🦱👩🏻‍🦰🙋🏻‍♀️⛹🏻‍♀️
+
 - 🎓 东北财经大学 · 金融科技（研二）
   
 - 📊 研究方向：**资产定价、机器学习、图神经网络（GNN）**
@@ -12,7 +14,7 @@
 - 📫 联系方式：1103569500@qq.com
 
 - ✨ ENFP
-
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Finance](https://img.shields.io/badge/Finance-003366?logo=visa&logoColor=white)
