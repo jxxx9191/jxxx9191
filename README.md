@@ -62,6 +62,29 @@
 
 👉<a href="/黄嘉欣个人简历.pdf" target="_blank">📄 查看我的简历</a>
 
+## 📷 我的生活  
 
+<p align="center">
+  <img src="images/basketball.jpg" width="250" style="border-radius:12px; margin:5px;">
+  <img src="images/travel.jpg" width="250" style="border-radius:12px; margin:5px;">
+  <img src="images/friends.jpg" width="250" style="border-radius:12px; margin:5px;">
+</p>
+
+<div style="display:flex; flex-wrap:wrap; gap:15px;">
+  <figure style="text-align:center;">
+    <img src="images/basketball.jpg" width="220" style="border-radius:12px;">
+    <figcaption>🏀 打球的快乐</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/travel.jpg" width="220" style="border-radius:12px;">
+    <figcaption>🌍 旅行的风景</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="images/friends.jpg" width="220" style="border-radius:12px;">
+    <figcaption>😊 和朋友的时光</figcaption>
+  </figure>
+</div>
+
+---
 
 
