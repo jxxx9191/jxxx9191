@@ -1,15 +1,15 @@
 # Hello!欢迎来到我的主页！ 
 # 黄嘉欣  ENFP
 
-## About me 
+## 关于我 About me 
 
-- 💼 东北财经大学研二 👨‍💻金融科技（Fintech）
-
-- 📈 资产定价与机器学习
-
-- ❤️ 热爱运动、热爱篮球
-
-- 💬 1103569500@qq.com
+- 🎓 东北财经大学 · 金融科技（研二）
+  
+- 📊 研究方向：**资产定价、机器学习、图神经网络（GNN）**
+  
+- 🏀 热爱运动，健身，尤其是篮球   ❤️ 户外运动、旅游✨ 
+  
+- 📫 联系方式：1103569500@qq.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -21,6 +21,29 @@
     ⭐ 基于图神经网络的股票预测项目
   </button>
 </a>
+## 🚀 我的项目  
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
+    <h3>📊 基于图神经网络的股票预测</h3>
+    <p>构建公司关系网络，结合宏观经济因素，利用 GNN 模型预测中国 A 股市场的收益率。</p>
+    <a href="https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction" target="_blank">
+      <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;">🔗 查看项目</button>
+    </a>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
+    <h3>📑 STAGNet</h3>
+    <p>提出了一种融合公司关系、宏观因素与时序依赖的动态图资产定价模型 —— STAGNet。</p>
+    <a href="#" target="_blank">
+      <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;">🔗 敬请期待</button>
+    </a>
+  </div>
+
+</div>
+
+---
 
 <br />
 
@@ -50,7 +73,11 @@
 - 📊 Research on **Asset Pricing & Machine Learning**  
 - 🏀 Passionate about sports & basketball  
 - 📫 Reach me: 1103569500@qq.com  
-
+- 🎓 东北财经大学 · 金融科技（研二）  
+- 📊 研究方向：**资产定价、机器学习、图神经网络（GNN）**  
+- 🏀 热爱运动，尤其是篮球  
+- 📫 联系方式：**1103569500@qq.com**  
+- ✨ 座右铭：*探索金融与人工智能的交汇点，让研究更有价值* 
 ---
 
 ## 🔬 Research Interests
