@@ -59,32 +59,38 @@
 
 ## 📷 我的生活 Life
 
+<div style="display:flex; flex-direction:column; gap:30px; align-items:center;">
 
-<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-   <figcaption>🏀 打球</figcaption>
+  <!-- 打球 -->
   <figure style="text-align:center;">
-    <img src="images/basketball.jpg" width="220" style="border-radius:12px;">
-    <img src="images/basketball2.jpg" width="220" style="border-radius:12px;">
-    <img src="images/basketball3.jpg" width="220" style="border-radius:12px;">
-  </figure>
-
-  <figure style="text-align:center;">
-    <figcaption>🌍 旅行</figcaption>
-    <div style="display:flex; gap:10px;">
-      <img src="images/travel1.jpg" width="220" style="border-radius:12px;">
-      <img src="images/travel2.jpg" width="220" style="border-radius:12px;">
-      <img src="images/travel3.jpg" width="220" style="border-radius:12px;">
+    <figcaption style="margin-bottom:10px;">🏀 打球</figcaption>
+    <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+      <img src="images/basketball.jpg" style="width:220px; border-radius:12px;">
+      <img src="images/basketball2.jpg" style="width:220px; border-radius:12px;">
+      <img src="images/basketball3.jpg" style="width:220px; border-radius:12px;">
     </div>
   </figure>
 
+  <!-- 旅行 -->
   <figure style="text-align:center;">
-    <figcaption>😊 风景</figcaption>
-    <div style="display:flex; gap:10px;">
-      <img src="images/scenery1.jpg" width="220" style="border-radius:12px;">
-      <img src="images/scenery2.jpg" width="220" style="border-radius:12px;">
-      <img src="images/scenery3.jpg" width="220" style="border-radius:12px;">
+    <figcaption style="margin-bottom:10px;">🌍 旅行</figcaption>
+    <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+      <img src="images/travel1.jpg" style="width:220px; border-radius:12px;">
+      <img src="images/travel2.jpg" style="width:220px; border-radius:12px;">
+      <img src="images/travel3.jpg" style="width:220px; border-radius:12px;">
     </div>
   </figure>
+
+  <!-- 风景 -->
+  <figure style="text-align:center;">
+    <figcaption style="margin-bottom:10px;">😊 风景</figcaption>
+    <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+      <img src="images/scenery1.jpg" style="width:220px; border-radius:12px;">
+      <img src="images/scenery2.jpg" style="width:220px; border-radius:12px;">
+      <img src="images/scenery3.jpg" style="width:220px; border-radius:12px;">
+    </div>
+  </figure>
+
 </div>
 
 
