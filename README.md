@@ -84,9 +84,9 @@
     <figcaption>😊 和朋友的时光</figcaption>
   </figure>
 </div>
-## 🪁 兴趣板块
+
 <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:90%; box-shadow:2px 2px 8px rgba(0,0,0,0.1); margin-top:20px;">
-  <h3>🎶 我喜欢的音乐 / 电影 / 剧集</h3>
+  <h3>🎶 我喜欢的音乐 / 影视作品 / 游戏</h3>
 
   <h4>🎵 音乐</h4>
   <ul>
