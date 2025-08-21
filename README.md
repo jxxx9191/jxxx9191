@@ -98,12 +98,12 @@
   <h4>🎬 影视作品</h4>
   <ul>
     <li>《爱乐之城 La La Land》</li>
-    <li>《风骚律师 Black Mirror》</li>
-    <li>《黄石》</li>
+    <li>《风骚律师 Better Call Saul》</li>
+    <li>《黄石 Yellowstone》</li>
   </ul>
   
 <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:90%; box-shadow:2px 2px 8px rgba(0,0,0,0.1); margin-top:20px;">
-  <h3>🎮 我喜欢的游戏（FPS类）</h3>
+  <h3>🎮 我喜欢的游戏</h3>
   <div style="display:flex; gap:20px; flex-wrap:wrap;">
     <figure style="text-align:center;">
       <img src="images/gta5.jpg" width="120" style="border-radius:12px;">
