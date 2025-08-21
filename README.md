@@ -59,26 +59,31 @@
 
 ## 📷 我的生活 Life
 
-<p align="center">
-  <img src="images/basketball.jpg" width="250" style="border-radius:12px; margin:5px;">
-  <img src="images/travel.jpg" width="250" style="border-radius:12px; margin:5px;">
-  <img src="images/friends.jpg" width="250" style="border-radius:12px; margin:5px;">
-</p>
 
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
   <figure style="text-align:center;">
     <img src="images/basketball.jpg" width="220" style="border-radius:12px;">
-    <figcaption>🏀 打球的快乐</figcaption>
+    <figcaption>🏀 打球</figcaption>
   </figure>
+
   <figure style="text-align:center;">
-    <img src="images/travel.jpg" width="220" style="border-radius:12px;">
-    <figcaption>🌍 旅行的风景</figcaption>
+    <div style="display:flex; gap:10px;">
+      <img src="images/travel1.jpg" width="220" style="border-radius:12px;">
+      <img src="images/travel2.jpg" width="220" style="border-radius:12px;">
+      <img src="images/travel3.jpg" width="220" style="border-radius:12px;">
+    </div>
+    <figcaption>🌍 旅行</figcaption>
   </figure>
+
   <figure style="text-align:center;">
-    <img src="images/friends.jpg" width="220" style="border-radius:12px;">
-    <figcaption>😊 和朋友的时光</figcaption>
+    <div style="display:flex; gap:10px;">
+      <img src="images/scenery1.jpg" width="220" style="border-radius:12px;">
+      <img src="images/scenery2.jpg" width="220" style="border-radius:12px;">
+    </div>
+    <figcaption>😊 风景</figcaption>
   </figure>
 </div>
+
 
 ---
 
