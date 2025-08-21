@@ -54,8 +54,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxx9191&show_icons=true&theme=radical)
 
 
-#### Top Repositories
-
 # 💼 黄嘉欣的个人简历 | Resume of Jiaxin Huang
 
  欢迎访问我的个人简历页面！（在线预览）
@@ -103,14 +101,18 @@
   </ul>
   
 <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:90%; box-shadow:2px 2px 8px rgba(0,0,0,0.1); margin-top:20px;">
-  <h3>🎮 我喜欢的游戏</h3>- 
+  <h3>🎮 我喜欢的游戏</h3>
   <ul>
     <li>GTA</li>
     <li>战地</li>
     <li>荒野大镖客2</li>
   </ul>
 
+---
 
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxx9191&show_icons=true&theme=radical)
 ---
 
 
