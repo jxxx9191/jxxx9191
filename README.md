@@ -89,7 +89,10 @@
   <h3>🎶 我喜欢的音乐 / 影视作品 / 游戏</h3>
 
   <h4>🎵 音乐</h4>- 
-  [![QQ音乐](https://img.shields.io/badge/QQ音乐-1DB954?logo=qqmusic&logoColor=white)](https://c6.y.qq.com/base/fcgi-bin/u?__=wPUxTf7WvpJu)
+<a href="https://c6.y.qq.com/base/fcgi-bin/u?__=wPUxTf7WvpJu" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=🎵&message=我的QQ音乐歌单&style=flat&color=1DB954" alt="QQ音乐歌单"/>
+</a>
+
 
   <ul>
     <li>Frank Ocean </li>
