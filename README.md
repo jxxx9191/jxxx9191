@@ -88,7 +88,7 @@
 <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:90%; box-shadow:2px 2px 8px rgba(0,0,0,0.1); margin-top:20px;">
   <h3>🎶 我喜欢的音乐 / 影视作品 / 游戏</h3>
 
-  <h4>🎵 音乐</h4>
+  <h4>🎵 音乐</h4>- [🎵 QQ 音乐歌单]([https://y.qq.com/n/ryqq/playlist/123456789](https://c6.y.qq.com/base/fcgi-bin/u?__=wPUxTf7WvpJu))
   <ul>
     <li>Frank Ocean </li>
     <li>Justin Bieber </li>
@@ -103,7 +103,7 @@
   </ul>
   
 <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:90%; box-shadow:2px 2px 8px rgba(0,0,0,0.1); margin-top:20px;">
-  <h3>🎮 我喜欢的游戏</h3>
+  <h3>🎮 我喜欢的游戏</h3>- [🎮 Steam 账号](https://steamcommunity.com/id/你的SteamID)
   <div style="display:flex; gap:20px; flex-wrap:wrap;">
     <figure style="text-align:center;">
       <img src="images/gta5.jpg" width="120" style="border-radius:12px;">
@@ -119,6 +119,8 @@
     </figure>
   </div>
 </div>
+
+
 
 ---
 
