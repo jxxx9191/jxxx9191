@@ -11,6 +11,9 @@
 
 - 💬 1103569500@qq.com
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Finance](https://img.shields.io/badge/Finance-003366?logo=visa&logoColor=white)
 
 ## 我的项目
 <a href="https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction" target="_blank">
