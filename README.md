@@ -61,15 +61,16 @@
 
 <div style="display:flex; flex-direction:column; gap:30px; align-items:center;">
 
-  <!-- 打球 -->
-  <figure style="text-align:center;">
-    <figcaption style="margin-bottom:10px;">🏀 打球</figcaption>
-    <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
-      <img src="images/basketball.jpg" style="width:220px; border-radius:12px;">
-      <img src="images/basketball2.jpg" style="width:220px; border-radius:12px;">
-      <img src="images/basketball3.jpg" style="width:220px; border-radius:12px;">
-    </div>
-  </figure>
+<!-- 打球 -->
+<figure style="text-align:center;">
+  <figcaption style="margin-bottom:10px;">🏀 打球</figcaption>
+  <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+    <img src="images/basketball.jpg" style="width:220px; height:150px; border-radius:12px; object-fit:cover;">
+    <img src="images/basketball2.jpg" style="width:220px; height:150px; border-radius:12px; object-fit:cover;">
+    <img src="images/basketball3.jpg" style="width:220px; height:150px; border-radius:12px; object-fit:cover;">
+  </div>
+</figure>
+
 
   <!-- 旅行 -->
   <figure style="text-align:center;">
