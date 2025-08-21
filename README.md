@@ -61,26 +61,29 @@
 
 
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+   <figcaption>🏀 打球</figcaption>
   <figure style="text-align:center;">
     <img src="images/basketball.jpg" width="220" style="border-radius:12px;">
-    <figcaption>🏀 打球</figcaption>
+    <img src="images/basketball2.jpg" width="220" style="border-radius:12px;">
+    <img src="images/basketball3.jpg" width="220" style="border-radius:12px;">
   </figure>
 
   <figure style="text-align:center;">
+    <figcaption>🌍 旅行</figcaption>
     <div style="display:flex; gap:10px;">
       <img src="images/travel1.jpg" width="220" style="border-radius:12px;">
       <img src="images/travel2.jpg" width="220" style="border-radius:12px;">
       <img src="images/travel3.jpg" width="220" style="border-radius:12px;">
     </div>
-    <figcaption>🌍 旅行</figcaption>
   </figure>
 
   <figure style="text-align:center;">
+    <figcaption>😊 风景</figcaption>
     <div style="display:flex; gap:10px;">
       <img src="images/scenery1.jpg" width="220" style="border-radius:12px;">
       <img src="images/scenery2.jpg" width="220" style="border-radius:12px;">
+      <img src="images/scenery3.jpg" width="220" style="border-radius:12px;">
     </div>
-    <figcaption>😊 风景</figcaption>
   </figure>
 </div>
 
