@@ -15,13 +15,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Finance](https://img.shields.io/badge/Finance-003366?logo=visa&logoColor=white)
 
-## 我的项目 Projects
+## 🚀我的项目 Projects
 <a href="https://github.com/jxxx9191/Return-Construction-Graph-Network-and-Prediction" target="_blank">
   <button style="padding:10px 20px; font-size:16px; border-radius:8px; cursor:pointer; background-color:#24292e; color:white; border:none;">
     ⭐ 基于图神经网络的股票预测项目
   </button>
 </a>
-## 🚀 我的项目  
+
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
