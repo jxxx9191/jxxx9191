@@ -104,19 +104,11 @@
   
 <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:90%; box-shadow:2px 2px 8px rgba(0,0,0,0.1); margin-top:20px;">
   <h3>🎮 我喜欢的游戏</h3>- 
-  <div style="display:flex; gap:20px; flex-wrap:wrap;">
-    <figure style="text-align:center;">
-      <figcaption>GTA5</figcaption>
-    </figure>
-    <figure style="text-align:center;">
-      <figcaption>战地</figcaption>
-    </figure>
-    <figure style="text-align:center;">
-      <figcaption>荒野大镖客</figcaption>
-    </figure>
-  </div>
-</div>
-
+  <ul>
+    <li>GTA</li>
+    <li>战地</li>
+    <li>荒野大镖客2</li>
+  </ul>
 
 
 ---
