@@ -26,8 +26,5 @@ ENFP
 
 欢迎访问我的个人简历页面！
 
-
 ## 📎 在线预览
-👉[ [file:///E:/jxxx9191code/jxxx9191.github.io/index.html](https://github.com/jxxx9191/jxxx9191.github.io/tree/main)](https://github.com/jxxx9191/jxxx9191.github.io/blob/main/index.html)
-
-<a href="/黄嘉欣个人简历.pdf" target="_blank">📄 查看我的简历</a>
+👉<a href="/黄嘉欣个人简历.pdf" target="_blank">📄 查看我的简历</a>
