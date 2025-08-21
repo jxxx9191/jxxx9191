@@ -24,7 +24,6 @@ ENFP
 
 # 💼 黄嘉欣的个人简历 | Resume of Jiaxin Huang
 
-欢迎访问我的个人简历页面！
+## 📎 在线预览 欢迎访问我的个人简历页面！
 
-## 📎 在线预览
 👉<a href="/黄嘉欣个人简历.pdf" target="_blank">📄 查看我的简历</a>
