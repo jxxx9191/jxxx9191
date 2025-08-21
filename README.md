@@ -38,8 +38,8 @@
 </div>
 
   <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:45%; box-shadow:2px 2px 8px rgba(0,0,0,0.1);">
-    <h3>😮 STAGNet</h3>
-    <p>基于SDF框架构建的资产定价模型。</p>
+    <h3>😮 基于SDF框架构建的资产定价模型</h3>
+    <p>基于深度学习方法构建中国市场的SDF,使用GAN、GNN、LSTM模型方法完成。</p>
     <a href="#" target="_blank">
       <button style="padding:8px 16px; border-radius:6px; cursor:pointer; background-color:#24292e; color:white; border:none;">🎉 敬请期待</button>
     </a>
