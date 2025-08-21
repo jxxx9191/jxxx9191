@@ -1,6 +1,5 @@
 # Hello!欢迎来到我的主页！ 
 # 黄嘉欣  👩🏻‍🦱
-
 ## 关于我 About me 
 
 - 🎂 生日：2001-10-18  
@@ -9,11 +8,11 @@
   
 - 📊 研究方向：**资产定价、机器学习、图神经网络（GNN）**
   
-- 🏀 热爱运动，健身，尤其是篮球⛹️‍♀️   ❤️ 户外运动、旅游
+- 🏀 热爱运动，健身🏋🏻‍♀️，尤其是篮球⛹️‍♀️  
   
 - 📫 联系方式：1103569500@qq.com
 
-- ✨ ENFP
+- ✨ ENFP   ❤️ 户外运动、旅游
   
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
